@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 - 🎓 B.Tech CSE student at **SRM University**, India (2022–2026)
-- 🧠 Passionate about full-stack development, ML/AI, and innovative tech projects
+- 🧠 Passionate about full-stack development, AI/ML, and innovative tech projects
 - 🚀 I love turning real-world problems into powerful digital solutions
 - 📈 Constantly learning, building, and contributing to open-source and communities
 
@@ -62,14 +62,15 @@ A movie recommender app using Spring Boot, MySQL, and React
 #### 🚗 Automated Accident Detection System
 Built with Arduino, GPS & GSM to alert hospitals on real-time accidents  
 - ⏱️ Reduced emergency response time by 5+ minutes  
-- 📡 Published at IEEE Conference via [EasyChair](https://easychair.org/conferences/overview?a=32977249)
+- 📡 Published at IEEE Conference
 
 ---
 
 ### 📚 Publications
 
-- **IEEE Conference**: *Automated Accident Detection & Reporting System*  
-  📄 Co-authored with Dr. Clement Antony K
+- **[IEEE Conference](https://ieeexplore.ieee.org/document/10911216)**:
+  *Automated Accident Detection & Reporting System*  
+  📄 Co-authored with Dr.Chitradevi D, Clement Antony K
 
 ---
 
@@ -82,6 +83,5 @@ Built with Arduino, GPS & GSM to alert hospitals on real-time accidents
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHRIKAVIN&show_icons=true&theme=github_dark" alt="Shrikavin's GitHub stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHRIKAVIN&theme=github-dark" alt="Shrikavin's GitHub streak" height="150"/>
 </p>
