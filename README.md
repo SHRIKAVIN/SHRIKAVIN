@@ -41,11 +41,7 @@
 
 ---
 
-### 💼 Experience
-
-#### 🔹 Web Dev Intern @ Coders Cave (Dec 2023 – Jan 2024)
-- Built multiple responsive web apps with React & JavaScript  
-- Boosted performance by 30% and followed Agile practices  
+### 💼 Experience 
 
 #### 🔹 Full Stack Intern @ Zer01 (Jan 2025 – Feb 2025)
 - Developed a MERN-based blog platform with Cloudinary integration  
